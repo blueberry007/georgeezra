@@ -1,0 +1,64 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Century Gothic;
+  font-weight: bold;
+}
+
+.active{
+  background: yellow;
+ color: #1b1a4d;
+}
+
+
+
+ul li a{
+  text-decoration:none;
+  color: black;
+}
+ul li a:hover{
+  background: #1b1a4d;
+  padding: 0.5em;
+  color: yellow;
+}
+
+.newarrival
+{
+  background: yellow;
+  width: 50px;
+  color: Black;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.col-md-7 h2{
+  color: Black;
+  font-weight: bold;
+}
+
+.price{
+  color: #FE980F;
+  font-size: 26px;
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+input{
+  border: 1px solid #CCC;
+  font-weight: bold;
+  height: 33px;
+  text-align: center;
+  width: 30px;
+}
+
+.cart{
+  background: black;
+  color: white;
+  font-size: 15px;
+  margin-left: 20px;
+}
+
+.row{
+  padding-top: 30px;
+  padding-left: 100px;
+}

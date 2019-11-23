@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Century Gothic;
+  font-weight: bold;
+}
+
+body{
+  height:100vh;
+  background-size: cover;
+  background-position: center;
+}
+ul li a{
+  text-decoration:none;
+  color: black;
+}
+ul li a:hover{
+  background: #1b1a4d;
+  padding: 0.5em;
+  color: yellow;
+}
+
+.carouselExampleIndicators{
+  background-size: cover;
+  background-position: center;
+}
